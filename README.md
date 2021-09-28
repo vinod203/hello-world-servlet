@@ -6,4 +6,4 @@ sample
 15/04/2021 -->Thursday
 09/07/2021
 03/07/2021 --> Friday today is
-09/28/2021 -->Tuesday
+09/28/2021 -->Tuesday today is
