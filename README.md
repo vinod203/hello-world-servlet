@@ -7,4 +7,4 @@ sample
 09/07/2021
 03/07/2021 --> Friday today is
 09/28/2021 -->Tuesday today is
-10/06/2021
+10/06/2021 --> it is wednesday
